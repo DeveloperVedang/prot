@@ -1,6 +1,6 @@
 // Typed
 var typed = new Typed('.typed span', {
-    strings: ["Hello I'm Vedang Shinde.", "I Am A JEE Aspirant", "I Own Arcade Allianc Hosting.", "I'm A Minecraft Developer."],
+    strings: ["Hello I'm Vedang Shinde.", "I Am A JEE Aspirant", "I'm Founder Arcade Alliance Hosting.", "I'm A Minecraft Developer."],
     loop: true,
     typeSpeed: 80,
     backSpeed: 50,
