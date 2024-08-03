@@ -108,7 +108,7 @@ nav ul li a:hover {
 
 .hero {
     height: 100vh;
-    background: url('./../img/1bg-transformed.jpeg');
+    background: url('https://img.vedang.io/bg-1.webp');
     background-repeat: no-repeat;
     background-size: 100%;
     background-color: rgba(0, 0, 0, 0.7);
